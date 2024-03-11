@@ -2,4 +2,4 @@
 
 Image gallery built with HTML CSS and Javascript
 
-![alt text](./image.png "To Do App")
+![alt text](.images/image.png "To Do App")
